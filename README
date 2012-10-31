@@ -1,0 +1,4 @@
+couchplay: couchbase integration for play2
+==========================================
+
+This is a experimental library to integrate couchbase with play2.
